@@ -4,8 +4,7 @@
 <!-- Titulo y Descripcion -->
 <div align="center">
 <h1>Hola 👋, Mi nombre es Bryan Sánchez<br>
-<a href="google.com"></a>
-<img width="100px" src="https://img.shields.io/website?label=Portafolio&jstyle=for-the-badge&url=https://google.com/" alt="portfolio-badge" />
+<a href="google.com"> <img width="100px" src="https://img.shields.io/website?label=Portafolio&jstyle=for-the-badge&url=https://google.com/" alt="portfolio-badge" /> </a>
 </h1>
 <img width="100px" src="https://komarev.com/ghpvc/?username=bryan-vc&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-badge" />
 </div><br>
