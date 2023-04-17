@@ -1,10 +1,11 @@
-<div class ="portada" align="center" >
+<div align="center" >
 <img  src="https://media.giphy.com/media/mEhPCIDM2bTrl0XKTG/giphy.gif" width="500" height="180">
 </div><br>
 <!-- Titulo y Descripcion -->
 <div align="center">
-<h1>Hola 👋, Mi nombre es Bryan Sánchez
-<img width="100px" src="https://img.shields.io/website?label=Portafolio&jstyle=for-the-badge&url=https://google.com/" alt="profile-views-badge" />
+<h1>Hola 👋, Mi nombre es Bryan Sánchez<br>
+<a href="google.com"></a>
+<img width="100px" src="https://img.shields.io/website?label=Portafolio&jstyle=for-the-badge&url=https://google.com/" alt="portfolio-badge" />
 </h1>
 <img width="100px" src="https://komarev.com/ghpvc/?username=bryan-vc&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-badge" />
 </div><br>
