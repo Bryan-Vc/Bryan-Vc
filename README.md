@@ -23,6 +23,9 @@
 [![Gmail-Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com)
 [![Outlook-Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.com)
 
-<br><h3>• 😎 Tecnologias Conocidas</h3>
+<h3>• 😎 Tecnologias Conocidas</h3>
+<ol>
+<h3>- 🖥️ Front-End :</h3>
 
-[![Linkedin-Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ec.linkedin.com/in/bryan-sanchez-villacis)
+[![Html-Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](HTML)
+</ol>
