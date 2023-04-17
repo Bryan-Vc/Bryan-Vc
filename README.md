@@ -7,7 +7,7 @@
 <a href="google.com"> <img width="100px" src="https://img.shields.io/website?label=Portafolio&jstyle=for-the-badge&url=https://google.com/" alt="portfolio-badge" /> </a>
 </h1>
 <img width="100px" src="https://komarev.com/ghpvc/?username=bryan-vc&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-badge" />
-</div><br>
+</div>
 
 <div align="justify">
 <h3>Apasionado por el mundo IT, persona comprometida y con una gran capacidad de aprendizaje. Dispuesto a asumir desafíos.</h3><br>
@@ -16,6 +16,13 @@
 <!-- Graficos Trofeos -->
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=bryan-vc&theme=onestar"><img src="https://github-profile-trophy.vercel.app/?username=bryan-vc&theme=onestar" alt="trofeos-github" /></a> </p>
 
-<!-- Links y Acceso -->
-[![Portafolio-Badge](https://img.shields.io/website?label=Portafolio&jstyle=for-the-badge&url=https://google.com/)](https://google.com)
+<!-- Links - Acceso - Tecnologias -->
+<h3>• 📫 Contáctate conmigo</h3>
+
+[![Linkedin-Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ec.linkedin.com/in/bryan-sanchez-villacis)
 [![Gmail-Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com)
+[![Outlook-Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.com)
+
+<br><h3>• 😎 Tecnologias Conocidas</h3>
+
+[![Linkedin-Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ec.linkedin.com/in/bryan-sanchez-villacis)
