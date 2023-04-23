@@ -78,5 +78,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </ol><br>
 
-<!-- <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Bryan-Vc&show_icons=true&theme=transparent" /> 
-<img width="250px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Vc" /> -->
+<div align="center">
+<img width="400px"  src="https://github-readme-stats.vercel.app/api?username=Bryan-Vc&show_icons=true&theme=transparent" /> 
+&nbsp &nbsp &nbsp
+<img width="400px"  src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan-Vc&theme=transparent&hide_border=false&border_radius=50" /> 
+</div>
