@@ -1,11 +1,11 @@
 <div align="center" >
-<img  src="https://media.giphy.com/media/mEhPCIDM2bTrl0XKTG/giphy.gif" width="500" height="180">
+<img  src="https://media.giphy.com/media/mEhPCIDM2bTrl0XKTG/giphy.gif" width="100%" height="250px">
 </div><br>
 <!-- Titulo y Descripcion -->
 <div align="center">
 
 # Hola 👋, Mi nombre es Bryan Sánchez
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](link/url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://bryan-vc.github.io/portfolio/)
 </div>
 
 <div align="justify">
